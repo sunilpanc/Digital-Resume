@@ -1,0 +1,51 @@
+.bottomBar{
+    height: auto;
+    width:100%;
+    background-color:rgba(248,248,248,0.7);
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 100%;
+  }
+  .bottomBarInner{
+    text-align:center;
+    vertical-align:text-top;
+  }
+  .bottomBarText{
+    color:rgba(0,0,0,0.7);
+    font-family: 'Rubik', sans-serif;
+    font-size:14px;
+    line-height: 2.4;
+  }
+  .bottomBarTextH3{
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    color:rgba(0,0,0,0.7);
+  }
+  .bottomSideSpace{
+    margin-right:70px;
+  }
+  
+  .bottomBarText .bottomEmail{
+   text-decoration:none;
+   color:rgba(0,0,0,0.9);
+  }
+  .bottomBarText .bottomEmail:hover{
+    color:rgba(0,0,0,0.7);
+  }
+  .distanceIcon{
+    padding-right:4px;
+  }
+  .bottomLast{
+    margin-top:70px;
+    border-top:1px solid #1a1a1a;
+  }
+  .copyright{
+    font-size:14px;
+    font-family: 'Rubik', sans-serif;
+    color:rgba(0,0,0,0.7);
+    margin: 30px auto 5px auto;
+    text-align: center;
+  }
+  .topManage{
+    margin-top:30px;
+  }
